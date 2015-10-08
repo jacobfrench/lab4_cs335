@@ -3,6 +3,8 @@
  * @date: 10/8/2015
  * @class: cs335
  * @coding style: K&R
+ * @desc: This program takes a string and counts the number of occurences for 
+ * each letter then prints them to the console.
  */
 
 
